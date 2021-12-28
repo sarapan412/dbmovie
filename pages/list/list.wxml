@@ -1,2 +1,27 @@
 
+<view class="container">
+    <view class="movie">
+        <view class="movie-item">
+            <text>肖申克的救赎</text>
+            <image src= 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg' mode = "aspectFit"/>
+            <button type="default" plain="true">b站搜索</button>
+        </view>
 
+        <view class="movie-item">
+            <text>霸王别姬</text>
+            <image src= 'https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561716440.jpg' mode = "aspectFit"/>
+            <button type="default" plain="true">b站搜索</button>
+        </view>
+
+
+        <view class="movie-item">
+            <text>阿甘正传</text>
+            <image src= 'https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2372307693.jpg' mode = "aspectFit"/>
+            <button type="default" plain="true">b站搜索</button>
+        </view>
+
+        
+    </view>
+
+
+</view>

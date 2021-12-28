@@ -1,0 +1,18 @@
+
+.movie {
+    
+    display: flex;
+    flex-direction: column;
+    padding: 40rpx;
+
+}
+
+.movie-item {
+
+    flex: 1;
+    border: 1rpx solid #eeeeee;
+    margin-top: 30rpx;
+    padding: 30rpx;
+    background-color: #eeeeee;
+    text-align:center;
+}

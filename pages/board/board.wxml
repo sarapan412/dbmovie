@@ -15,7 +15,6 @@
         
 
     <view class="board">
-
     <navigator url = "../list/list?type=top250&name=TOP250">
         <view class="board-item">
             <text>TOP250</text>
@@ -23,10 +22,6 @@
 
     </navigator>
 
-        <view class="board-item">
-            <text>正在热映</text>
-        
-        </view>
     </view>
 
 
